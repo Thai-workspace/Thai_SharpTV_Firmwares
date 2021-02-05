@@ -1,19 +1,17 @@
 # SharpTVFirmwares
 A collection of Sharp TV firmwares
 
-收集的一些夏普智能电视的固件，因为夏普型号比较乱，一个固件可能对应不同型号，下面列出一些常见的，还有可能适用更多的，如果适用的话请反馈。
+มีการฟิตเฟิร์มแวร์ทีวีแมตช์บางรุ่นเนื่องจากรุ่นรัดพัฟเฟิร์มแวร์หนึ่งตัวอาจตรงกับรุ่นที่แตกต่างกันโดยทั่วไปบางรุ่นมีการระบุด้านล่าง
 
-Caesar_China_PackA02.bin 可能对应 LCD-50TX55A
-Caesar_China_PackA03.bin 可能对应 LCD-50SU460A? LCD-70MY5100A?
-Caesar_China_PackA04.bin 可能对应 LCD-*TX5000A
-Bellona_China_PackA07.bin 可能对应 SU666A、DS7008A、MY7008A、TX7008A、SU766A、DS8008A、MY8008A、TX8008
+Caesar_China_PackA02.bin อาจเป็นไปตาม LCD-50TX55A Caesar_China_PackA03.bin อาจเป็นไปได้กับ LCD-50SU460A? LCD-70MY5100A หรือไม่ Caesar_China_PackA04.bin อาจสอดคล้องกับ LCD- * TX5000A Bellona_China_PackA07.bin อาจกับ SU666A, DS7008A, MY7008A, TX7008A, SU766A, DS8008A, MY8008A, TX8008
 
-因为Github有单文件100MB限制所以分割压缩了，下载后需要用7zip解压，把Caesar_China_PackA**.bin解压出来复制到U盘的根目录，拔电源，按住电视后面电源键(就是那个摇杆,直直按下去,不要拐弯),保持按着,插电源线,等它开始升级就可以放了。
+เนื่องจาก Github มีขีด จำกัด 100MB สำหรับการเล่นเกมเดียวถูกแบ่งและกดเลื่อนคุณต้องบีบอัดด้วย 7zip Unzip Caesar_China_PackA ** bin และคัดลอกไปยังขนของเทียมของอูกดตรงลงไม่ขยับไปเรื่อย ๆ กดต่อไปสายไฟแล้วรอให้มันเริ่มอัพเกรดคุณสามารถใส่ได้。
 
-The firmware of some Sharp smart TVs is collected, because Sharp models are messy, one firmware may correspond to different models, some common ones are listed below, and there may be more applicable, please feedback if applicable.
+มีการรวบรวมเฟิร์มแวร์ของสมาร์ททีวี Sharp บางรุ่นเนื่องจากรุ่น Sharp มีความยุ่งเหยิงเฟิร์มแวร์ตัวหนึ่งอาจตรงกับรุ่นที่แตกต่างกันบางรุ่นทั่วไปมีอยู่ด้านล่างและอาจมีความเกี่ยวข้องมากกว่านี้โปรดตอบกลับหากมี
 
-Caesar_China_PackA02.bin may correspond to LCD-50TX55A
-Caesar_China_PackA03.bin may correspond to LCD-50SU460A? LCD-70MY5100A?
+Caesar_China_PackA02.bin อาจสอดคล้องกับ LCD-50TX55A Caesar_China_PackA03.bin อาจสอดคล้องกับ LCD-50SU460A? LCD-70MY5100A? Caesar_China_PackA04.bin อาจสอดคล้องกับ LCD- * TX5000A Bellona_China_PackA07.bin อาจสอดคล้องกับ SU666A、 DS7008A、 MY7008A、 TX7008A、 SU766A、 DS8008A、 MY8008A、 TX8008
+
+เนื่องจาก Github มีไฟล์เดียวที่มีขีด จำกัด 100MB จึงถูกบีบอัด หลังจากดาวน์โหลดคุณต้องคลายการบีบอัดด้วย 7zip Unzip Caesar_China_PackA ** Bin และคัดลอกไปยังไดเรกทอรีรากของแฟลชไดรฟ์ USB ถอดปลั๊กไฟและกดปุ่มเปิด / ปิดที่ด้านหลังของทีวี (กดลงตรงๆอย่าหมุน) กดต่อไปเสียบสายไฟและรอให้เครื่องเริ่มการอัพเกรด
 Caesar_China_PackA04.bin may correspond to LCD- * TX5000A
 Bellona_China_PackA07.bin may correspond to SU666A、DS7008A、MY7008A、TX7008A、SU766A、DS8008A、MY8008A、TX8008
 
